@@ -9,7 +9,7 @@
 <body>
 
 <header class="header">
-    <h1>Bocchi</h1>
+    <h1>Portfólio do Bocchi</h1>
     <p>Exercícios e projetos práticos</p>
 </header>
 
